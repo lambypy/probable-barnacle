@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css';
+import './SortingVisualizer.css';
 
 export class SortingVisualizer extends React.Component {
     constructor(props) {
