@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is based on a sorting visualizer that allows you to see different sorting methods in real time. This is currenly a work in progress but the types of sorting methods used will be linked here in the future.
+
 ## Available Scripts
 
 In the project directory, you can run:
